@@ -43,7 +43,7 @@ $token_check = mysqli_query($con,"SELECT token_identity FROM tokens where token_
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="HIGHLY CLASSIFIED. Only Relier employees are allowed to access this token portal. Add used tokens here and verify whether token submitted by an agent is valid and has never been used."
-    <link rel="icon" href="img/favicon.png" type="image/png">
+    <link rel="icon" href="https://www.relier.co.zw/tokens_verification_portal/logo.png" type="image/png">
     <title>Token Verification</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css">
