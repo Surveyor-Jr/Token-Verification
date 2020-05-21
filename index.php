@@ -1,6 +1,6 @@
 <?php
 
-$con= new mysqli('localhost','root','','relier_tokens')or die("Could not connect to mysql".mysqli_error($con));
+$con= new mysqli('localhost',' fzhzf_relier','nkm10636','fzhzfxpv_relier_store')or die("Could not connect to mysql".mysqli_error($con));
 
 //$msg = "Token is valid and has been registered successfully";
     $success = 0;
